@@ -15,3 +15,7 @@ Customers without projection
 
 Customers with projection
 ![image](https://github.com/nawfalel1/micro-services/assets/106021874/aed7b6eb-30a1-424a-b2d4-3d461ee398c9)
+
+order-service / productItems
+![image](https://github.com/nawfalel1/micro-services/assets/106021874/8bd3e502-2b1f-4313-be43-c6931c2ccb34)
+
